@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Railsgirlshouston::Application.load_tasks
+Railsgirlsminiposts::Application.load_tasks

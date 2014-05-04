@@ -1,4 +1,4 @@
-Railsgirlshouston::Application.routes.draw do
+Railsgirlsminiposts::Application.routes.draw do
   resources :users, :posts
 
 end

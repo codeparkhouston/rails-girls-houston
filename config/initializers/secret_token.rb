@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Railsgirlshouston::Application.config.secret_key_base = '747ebe635f49b917ccc7f7d427ea39dfff7cf15960c6a3c80393c95a22c9bffe3a222c6cad795c904868223a52f894d687379a2645c0fde0ce265b9a9b63ee37'
+Railsgirlsminiposts::Application.config.secret_key_base = '747ebe635f49b917ccc7f7d427ea39dfff7cf15960c6a3c80393c95a22c9bffe3a222c6cad795c904868223a52f894d687379a2645c0fde0ce265b9a9b63ee37'
